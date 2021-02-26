@@ -1,0 +1,12 @@
+numpy
+Cython
+matplotlib
+opencv_python==3.4.8.29
+torch==1.4
+torchvision==0.5
+pyyaml
+scipy
+scikit-learn
+tensorboardX
+torchgeometry
+cffi
